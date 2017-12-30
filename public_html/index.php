@@ -5,7 +5,7 @@
 
 <html>
     <head>
-        <title>Demo website</title>
+        <title>Demo website 1</title>
     </head>
 
     <body>
